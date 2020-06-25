@@ -1,4 +1,4 @@
-# code-python-template-repo
+# django-sandbox
 
 [![Build Status](https://travis-ci.org/dev-11/django-sandbox.svg?branch=master)](https://travis-ci.org/dev-11/django-sandbox)
 [![codecov](https://codecov.io/gh/dev-11/django-sandbox/branch/master/graph/badge.svg)](https://codecov.io/gh/dev-11/django-sandbox)
