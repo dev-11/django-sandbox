@@ -34,3 +34,4 @@ ignore:
   - "**/__init__.py"
   - manage.py
   - sandbox/*.py
+  - "**/migrations/*.py"
